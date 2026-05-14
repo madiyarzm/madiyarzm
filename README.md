@@ -1,6 +1,6 @@
 # Hi, I'm Madiyar 
 
-I'm a software engineer and student at **Minerva University**, building at the intersection of AI, full-stack web development, and cloud infrastructure. I care about shipping products that solve real problems — from drug overdose prevention to collaborative coding platforms.
+I'm a software engineer and student at **Minerva University**, building at the intersection of AI, full-stack web development, and cloud infrastructure. I care about shipping products that solve real problems — from internal document compliance tools to collaborative coding platforms.
 
 ---
 
