@@ -1,4 +1,4 @@
-# Hi, I'm Madiyar
+# Hey, I'm Madiyar
 
 CS student at Minerva University building things at the intersection of **AI**, **robotics**, and **full-stack engineering**. 
 
