@@ -1,6 +1,6 @@
-# Hey, I'm Madiyar
+# Hi, I'm Madiyar
 
-CS student at Minerva University building things at the intersection of **AI**, **robotics**, and **full-stack engineering**. 
+CS student at Minerva University building things at the intersection of **AI**, **robotics**, and **full-stack engineering**. Currently working on autonomous robot systems and real-time control pipelines in the lab.
 
 ---
 
@@ -12,7 +12,6 @@ CS student at Minerva University building things at the intersection of **AI**, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
@@ -38,17 +37,16 @@ CS student at Minerva University building things at the intersection of **AI**, 
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
@@ -56,8 +54,8 @@ CS student at Minerva University building things at the intersection of **AI**, 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=madiyarzm&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiyarzm&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook&langs_count=8&cache_seconds=1800" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=madiyarzm&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiyarzm&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=8&cache_seconds=1800" height="150" />
 </p>
 
 ---
