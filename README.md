@@ -55,7 +55,7 @@ CS student at Minerva University building things at the intersection of **AI**, 
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=madiyarzm&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiyarzm&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&langs_count=8&cache_seconds=1800" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madiyarzm&theme=github_dark" height="150" />
 </p>
 
 ---
