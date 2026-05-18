@@ -1,6 +1,6 @@
 # Hi, I'm Madiyar
 
-CS student at Minerva University building things at the intersection of **AI**, **robotics**, and **full-stack engineering**. Currently working on autonomous robot systems and real-time control pipelines in the lab.
+CS student at Minerva University building things at the intersection of **AI**, **robotics**, and **full-stack engineering**. 
 
 ---
 
