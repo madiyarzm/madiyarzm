@@ -7,6 +7,7 @@ Was the core engineer on a humanoid robot at a research lab, and a published res
 Shipped products: TraceBack (VS Code extension for Claude Code observability, live on the Marketplace 70+ downloads), Strawie (real-time collaborative coding IDE with CRDTs, sandboxed execution, 50+ users), Tessera (semantic-cache RAG with ACL boundaries).
 
 Outside of engineering, I run a YouTube channel with 11K+ subscribers and 2M+ views, and I'm building a new one in the style of 3Blue1Brown — making AI, statistics, and CS intuitive for people.
+
 ---
 
 ## Tech Stack
