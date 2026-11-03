@@ -1,12 +1,18 @@
 # Hi, I'm Madiyar
 
-I build and ship things — full-stack platforms, agentic AI systems, and developer tooling that solves real problems.
- 
-Was the core engineer on a humanoid robot at a research lab, and a published researcher at WICC 2026. Before that, three software engineering internships across San Francisco, Taipei, and Kazakhstan. I've shipped full-stack platforms, real-time collaborative tools, RAG pipelines, and distributed embedded systems.
- 
-Shipped products: TraceBack (VS Code extension for Claude Code observability, live on the Marketplace 70+ downloads), Strawie (real-time collaborative coding IDE with CRDTs, sandboxed execution, 50+ users), Tessera (semantic-cache RAG with ACL boundaries).
+I'm a CS student at Minerva University in San Francisco. I work on the systems layer of AI products: how data moves between machines, where latency comes from, and what breaks as systems grow.
 
-Outside of engineering, I run a YouTube channel with 11K+ subscribers and 2M+ views, and I'm building a new one in the style of 3Blue1Brown — making AI, statistics, and CS intuitive for people.
+## Selected work
+
+- **TraceBack**: a VS Code extension for reviewing and steering Claude Code sessions. Downloaded 361 times from the VS Code Marketplace.
+- **MeshSync**: offline, shared calibration across ESP32 boards, with CRDT sync over ESP-NOW and deletion that reaches every board.
+- **Strawie**: a real-time collaborative Python IDE for classrooms, built on CRDTs, with sandboxed execution and 50+ users.
+- **AURA**: core engineer on a semi-humanoid robot with a seven-layer stack, from ESP32 firmware to local LLM reasoning.
+- **Research**: WICC 2026 paper on JSON vs. CBOR serialization tradeoffs on ESP32.
+
+Before this, I did three software engineering internships in San Francisco, Taipei, and BA.
+
+Outside engineering, I run a YouTube channel with 11K+ subscribers and 2M+ views, and I'm starting a new one that explains AI, statistics, and CS visually.
 
 ---
 
